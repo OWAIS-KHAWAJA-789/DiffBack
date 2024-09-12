@@ -22,10 +22,10 @@ The Backup Comparison Tool is a Python utility designed to compare files between
 
 . **Clone the repository:**
 
-    ```sh
+    
     git clone https://github.com/MohammadOwaisData/DiffBack.git
     cd DiffBack
-    ```
+    
 
 ## Usage
 
