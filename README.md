@@ -80,7 +80,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This tool is released under the MIT License. See the [LICENSE](https://github.com/MohammadOwaisData/DiffBack/blob/main/LICENSE) file for details.
+This tool is released under the MIT License. See the [LICENSE](https://github.com/OWAIS-KHAWAJA-789/DiffBack/blob/main/LICENSE) file for details.
 
 ## Contact
 
